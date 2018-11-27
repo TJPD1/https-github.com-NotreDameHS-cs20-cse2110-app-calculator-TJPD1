@@ -10,6 +10,15 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    @IBAction func Divide(_ sender: Any) {
+    }
+    @IBAction func Multiply(_ sender: Any) {
+    }
+    @IBAction func Subtract(_ sender: Any) {
+    }
+    @IBAction func Add(_ sender: Any) {
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
