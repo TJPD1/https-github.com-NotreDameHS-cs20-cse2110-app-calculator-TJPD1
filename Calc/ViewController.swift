@@ -11,7 +11,12 @@ import UIKit
 class ViewController: UIViewController {
     
     var currentDisplay : String = ""
-    
+    var secondNumber : String = ""
+    /*
+    let lessPrecisePI = Float("3.14")
+    let morePrecisePI = Double("3.1415926536")
+    let width = CGFloat(Double("200.0")!)
+    */
     
     @IBOutlet weak var label: UILabel!
     
